@@ -1,0 +1,15 @@
+Practice ONE:
+-------------
+
+Developing a program in Arduino to implement the flashing of light 13 in the given freqency. You need to use the Serial communication functions, Digital Output functions, and the basic software architecture of Arduino.
+
+Practice TWO:
+-------------
+
+Write a program to implement: (1) Timer in Arduino; (2) implementation of Practice ONE in Timer way. You will learn how to import a library into Arduino, and the usage of timer in MCU based system.
+
+Practice Three:
+---------------
+Impement Multi-task software framework on Arduino. This framework can be based on Arduino Timer Library, and follow the instructions from the book (time-triggered embedded software developent pattern by Auslander A.J.).
+
+
