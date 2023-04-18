@@ -8,6 +8,6 @@ This course is designed for students who are not speciliazed in Computer-related
 
 ### About textbooks
 
-There's no designated textbook for this coures. Some reference books are available in the `book` directory.
+There's no designated textbook for this course. Some reference books are available in the `book` directory.
 
-(PTTES)[book/pttes\_0408a.pdf] is a must-read book.
+[PTTES](book/pttes\_0408a.pdf) is a must-read book.
