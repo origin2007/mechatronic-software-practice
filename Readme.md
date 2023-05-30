@@ -37,4 +37,14 @@ There's no designated textbook for this course. Some reference books are availab
 **Documents** A MS Word format document giving a detailed description on how this practice were conducted. Using words and pictures, diagrams gracefully.
 
 
-(to be continued )
+### Homework #3
+
+##### <u>DAQ Software</u>
+
+**Destination:** Understanding the distributed computing system, learn how to write PC-based application and communication skills between PC and Arduino using Serial Port.
+
+**Content:** Using python programming language to develop the PC application, open serial port, retrieve data from Arduino. Using Arduino to send arbitrory data (float) through serial port. It's better to design a GUI for PC application to show the data in curve.
+
+**Due Date:** 16th week of this semester
+
+**Documents** A MS Word format document giving a detailed description on how this practice were conducted. Using words and pictures, diagrams gracefully.
